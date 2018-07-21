@@ -11,7 +11,7 @@
     text-align: center;
     padding: 1%;
 }
-#image-div {
+#img-div {
 background-color: white;
 padding-right: 2%;
 padding-left: 2%;
@@ -49,6 +49,4 @@ h3 {
 	font-color: gray;
 }
 
-#tribute-link {
-	font-size: 17px;
-}
+
